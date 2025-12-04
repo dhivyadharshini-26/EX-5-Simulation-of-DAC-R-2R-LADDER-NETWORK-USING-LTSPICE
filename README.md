@@ -26,11 +26,17 @@
 ---
 ## MODEL GRAPH
 <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+
+---
+## DESIGN
+
+![WhatsApp Image 2025-12-04 at 13 28 32_c6266223](https://github.com/user-attachments/assets/d02f8636-b217-454b-819b-dea83cde13ac)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="1600" height="378" alt="image" src="https://github.com/user-attachments/assets/70964569-6913-4e5c-ae5c-bb261a2db1b4" />
+
+![WhatsApp Image 2025-12-04 at 13 28 33_f5eedd26](https://github.com/user-attachments/assets/ae4fb3b1-a857-4ef7-be5f-3d1fd756c7c4)
 
 
 ---
